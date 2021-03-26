@@ -4,3 +4,4 @@ Alumne01			Xàtiva
 ------------------------   ----------------------
 Daniel                   Algemesi
 Eduardo                   Alginet
+Alex                       Albalat
