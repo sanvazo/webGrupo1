@@ -3,3 +3,4 @@ Alumne				Població
 Alumne01			Xàtiva
 ------------------------   ----------------------
 Daniel                   Algemesi
+Eduardo                   Alginet
