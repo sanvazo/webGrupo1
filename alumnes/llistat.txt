@@ -4,5 +4,9 @@ Alumne01			Xàtiva
 ------------------------   ----------------------
 Daniel                   Algemesi
 Eduardo                   Alginet
+<<<<<<< HEAD
+Alex                       Albalat
+=======
 Roberto                 Corbera
 Cristian		Algemesi
+>>>>>>> main
