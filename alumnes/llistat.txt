@@ -5,3 +5,4 @@ Alumne01			Xàtiva
 Daniel                   Algemesi
 Eduardo                   Alginet
 Roberto                 Corbera
+Cristian		Algemesi
